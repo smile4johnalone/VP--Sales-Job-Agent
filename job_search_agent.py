@@ -568,3 +568,4 @@ anthropic==0.7.1""")
 
 st.markdown("---")
 st.markdown("*Built for VP Sales job search • Last updated: Feb 2025*")
+march 3rd 2026
